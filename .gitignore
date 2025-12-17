@@ -1,0 +1,14 @@
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node global
+node_modules/
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend
+frontend/node_modules/
